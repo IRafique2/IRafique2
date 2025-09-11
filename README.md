@@ -1,4 +1,4 @@
-# Hi, I’m Israr Rafique  
+# Hi, I’m Isra Rafique  
 **Data Scientist | ML Engineer | Python Developer | Web Developer**  
 Currently pursuing an MS in Data Science at **NUST**. Passionate about **AI**, **Machine Learning**, **Data Engineering**, and building **Generative AI** solutions. Dedicated to creating impactful, AI-driven products and contributing to **open-source projects**.
 
