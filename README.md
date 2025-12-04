@@ -36,12 +36,11 @@ Currently pursuing an MS in Data Science at **NUST**. Passionate about **AI**, *
 ---
 
 ##  Projects Spotlight  
-- **Movie Recommendation System**: AI-based movie recommender using collaborative filtering.
-- **AI-Powered Image Classifier**: Deep learning model for image classification with **TensorFlow**.
-- **Fake News Detection**: AI model for detecting fake news using **NLP** techniques.
-- **E-commerce Recommendation System**: Collaborative filtering recommendation engine for products.
-- **Chatbot Development**: AI-driven chatbots to assist customers and automate inquiries.
-
+* **End-to-End Machine Learning Pipelines** — Full ML workflows including feature engineering, modeling, and deployment.
+* **End-to-End Deep Learning Pipelines** — Complete ANN, CNN, and RNN workflows from data preprocessing to deployment.
+* * **Personalized Recommendation Systems** — Collaborative & hybrid filtering for tailored suggestions.
+* **AI Chatbot / Virtual Assistant** — Conversational agent for automated customer support.
+* **RAG & Agentic AI Systems** — Retrieval-augmented generation and custom AI agents for automation.
 
 ---
 
@@ -77,11 +76,7 @@ Currently pursuing an MS in Data Science at **NUST**. Passionate about **AI**, *
 
 ---
 
-##  Mentoring and Speaking  
-- **Book a free mentorship call** on instagram.
-- **Invite me to speak or judge** at your event. Topics include **Data Science Pipeline**, **feature engineering**, and **AI development**.
 
----
 
 ## Work With Me  
 - Open an issue on any of my repositories. I respond quickly.
