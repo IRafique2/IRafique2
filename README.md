@@ -38,7 +38,7 @@ Currently pursuing an MS in Data Science at **NUST**. Passionate about **AI**, *
 ##  Projects Spotlight  
 * **End-to-End Machine Learning Pipelines** — Full ML workflows including feature engineering, modeling, and deployment.
 * **End-to-End Deep Learning Pipelines** — Complete ANN, CNN, and RNN workflows from data preprocessing to deployment.
-* * **Personalized Recommendation Systems** — Collaborative & hybrid filtering for tailored suggestions.
+* **Personalized Recommendation Systems** — Collaborative & hybrid filtering for tailored suggestions.
 * **AI Chatbot / Virtual Assistant** — Conversational agent for automated customer support.
 * **RAG & Agentic AI Systems** — Retrieval-augmented generation and custom AI agents for automation.
 
